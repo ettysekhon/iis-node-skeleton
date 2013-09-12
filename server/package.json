@@ -1,0 +1,9 @@
+{
+    "name": "iis-node-skeleton",
+    "version": "0.0.0",
+    "description": "A skeleton IIS structure for IIS node with web.config - handy if you want to deploy to Azure",
+    "dependencies": {
+        "express": "latest"
+    },
+    "author": "Etty Sekhon"
+}
